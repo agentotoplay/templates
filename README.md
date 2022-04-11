@@ -7,4 +7,4 @@ This is just an eye catching gaming website templates, also included with HTML5 
   
 <h2>Google SEO Support</h2>
 With this templates, you will get Review Rating Star Google Snippets. Cool right ?
-![image](https://user-images.githubusercontent.com/103384128/162722242-19900fbf-38de-4875-bcf7-3e84b1444b8a.png)
+![image](https://user-images.githubusercontent.com/103384128/162796816-8d7739b8-d00d-42c8-9481-5146ea44bbf1.png)
