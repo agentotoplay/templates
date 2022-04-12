@@ -1,4 +1,7 @@
-<h2>Disclaimer</h2>
+<h2>Disclaimer #1</h2>
+Jangan senggol bos !!! Template bikin sendiri ya. Jangan asal comot  
+
+<h2>Disclaimer #2</h2>
 This repositories isn't contain any Real Money Online Gambling Site at all... Its just static template that people can use for free 
 
 <h2>Html Gaming Templates</h2>
